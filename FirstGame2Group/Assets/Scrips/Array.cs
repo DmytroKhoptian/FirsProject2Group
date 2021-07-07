@@ -21,7 +21,7 @@ public class Array : MonoBehaviour
         month[0] = "afafzx";
 
 
-        films[6] = "Пила";
+        films[5] = "Пила";
         print("Cейчас" + sumMon[0]);
         print("Выходные" + freeDays[0] + freeDays[1] + freeDays[2]);
         print("--------------------------------------------------");
